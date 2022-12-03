@@ -1,0 +1,40 @@
+body {
+    font-family: cursive;
+    background-color: orchid;
+}
+.header_div {
+    background-color: powderblue;
+    color:orchid;
+}
+.header_div p {
+    font-family: cursive;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 200px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blueviolet;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px pink;
+}
+b {
+    font-size: 25px;
+    font-weight: bold;
+}
+#img {
+    width: 450px;
+    height: 400px;
+}
